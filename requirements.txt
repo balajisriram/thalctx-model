@@ -4,7 +4,7 @@
 attrs=19.3.0=py_0
 backcall=0.1.0=py37_0
 blas=1.0=mkl
-bleach=3.1.1=py37_0
+bleach=3.1.2=py37_0
 brian2=2.2.2.1=py37he980bc4_1
 ca-certificates=2019.11.27=0
 certifi=2019.11.28=py37_0
